@@ -1,0 +1,12 @@
+tags
+*~
+*.swp
+.VimballRecord
+undofiles/*
+projects/*
+.netrwhist
+UltiSnips/*
+bundle/*
+spell/*.add*
+
+.idea/
